@@ -4,4 +4,6 @@ Simple temperaturelogger to report temperature to thingspeak.com every minute.
 
 Built with esp8266 and ds18b20, running on nodemcu.
 
-![Schema](blob/master/esp_ds_schem.png)
+![Schema](esp_ds_schem.png)
+![Breadboard](esp_ds_bb.png)
+
